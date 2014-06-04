@@ -1,7 +1,7 @@
 /*
-* sonospowermate.js
-* control a sonos speaker (or group that speaker belongs to)
-* and monitor its play status with the led ring
+* sonossubto11.js
+* modify the gain of a sonos sub depending on the currently
+* playing song
 *
 */
 'use strict'
